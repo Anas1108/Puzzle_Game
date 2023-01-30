@@ -5,7 +5,7 @@ A C++ implementation of a puzzle game played in a command line interface.
 ## Running the program
 To run the program, navigate to the project directory in a terminal and run:
 
-- g++ puzzle.cpp -o puzzle
+- g++ PuzzleGame.cpp -o puzzle
 - ./puzzle
 
 
